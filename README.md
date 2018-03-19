@@ -1,7 +1,7 @@
 # Salt-Framework
 A very simple python script allowing easy access to your favorite pen-testing tools.
 
-To add a new tool to the framwork, simply clone your desired tool into the libraries folder.
+To add a new tool to the framwork, simply clone your desired tool into the libraries folder. Then follow these directions.
 
 Within the SaltFramwork.py I have included some example layouts of some popular tools to give a clear idea of how to integrate your own, but heres a rundown of how to use the framwork.
 
