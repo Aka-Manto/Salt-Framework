@@ -7,7 +7,7 @@ Within the SaltFramwork.py I have included some example layouts of some popular 
 
 First step - Clone the wanted tool into the libraries folder
 
-2nd step - Create a menu entry under the "Create Menu" Tab
+2nd step - Create a menu entry under the "Create Menu" divider of the SaltFramework.py file.
 
 3rd Step - Assign a variable name for the script to check for, the syntax is as follows.
   "STRINGNAME" = "Code required to run the program " +AKAMANTO
