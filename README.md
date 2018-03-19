@@ -15,7 +15,7 @@ First step - Clone the wanted tool into the libraries folder
   "STRINGNAME" = "Code required to run the program " +AKAMANTO
       the AKAMANTO string calls the second raw_input handler, which allows you to specify arguements for tools such as mitmf.
      
-4th Step - Assign a path under the "Uses action as per selected" portion
+4th Step - Assign a path under the "Uses action as per selected" portion.
   This is where the variable we just created comes into play.. The code written here tells the script where your tools are located, along with what to listen for. 
   
 And thats it !
