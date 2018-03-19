@@ -5,6 +5,8 @@ To add a new tool to the framwork, simply clone your desired tool into the libra
 
 Within the SaltFramwork.py I have included some example layouts of some popular tools to give a clear idea of how to integrate your own, but heres a rundown of how to use the framwork.
 
+! Keep in mind, while I have alot of tools listed, they will not work unless they are structurely cloned into directories as listed within the SaltFramework.py file. The code only comes with a test.py file, meant to show you how the code operates. !
+
 First step - Clone the wanted tool into the libraries folder
 
 2nd step - Create a menu entry under the "Create Menu" divider of the SaltFramework.py file.
@@ -14,7 +16,7 @@ First step - Clone the wanted tool into the libraries folder
       the AKAMANTO string calls the second raw_input handler, which allows you to specify arguements for tools such as mitmf.
      
 4th Step - Assign a path under the "Uses action as per selected" portion
-  This is where the variable we just created comes into play. The code written here tells the script where your tools are located, along with what to listen for. 
+  This is where the variable we just created comes into play.. The code written here tells the script where your tools are located, along with what to listen for. 
   
 And thats it !
 
